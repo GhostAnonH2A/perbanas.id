@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fti.perbanas.id/-/slot-gacor/sitemap.xml
